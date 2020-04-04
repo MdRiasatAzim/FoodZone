@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width: 992px){
+	
+	.about h4{font-size: 16px;}
+	
+	.about p{font-size: 12px;}
+}
+
+@media only screen and (max-width: 768px){
+	
+	h1{font-size: 24px;}
+	
+	.slideShow{height: 520px;}
+	
+	.slideShow img{height: 520px;}
+	
+	.banner{height: 70px;}
+	
+	.inside{height: 670px;}
+	
+	.inside img{height: 110px;}
+	
+	.inside p{font-size: 14px;}
+
+	.inside h5{font-size: 18px;}
+	
+	.reviews p{
+		font-size: 13px;
+		line-height: 16px;
+	}
+	
+	.card{width: 130px;}
+	
+	.about img{height: 200px;}
+	
+	.card h4{font-size: 15px;}
+	
+	.card p{font-size: 9px;}
+	
+	/*Page2*/
+	
+	.foodset img, .foodset2 img{
+	width: 210px;
+	height: 140px;
+	}
+}
+
+@media only screen and (max-width: 576px){
+	
+	.reviews{height: 800px;}
+	
+	.card{
+		width: 250px;
+		margin: 10px auto;
+	}
+	
+	.about img{height: 200px;}
+	
+	.about{height: 1300px;}
+	
+	.card h4{font-size: 18px;}
+	
+	.card p{font-size: 12px;}
+	 
+	/*Page2*/
+	
+	.foodset img, .foodset2 img{
+	width: 150px;
+	height: 100px;
+	}
+	
+	.foodsection img{
+	width: 180px;
+	height: 120px;
+	}
+}
