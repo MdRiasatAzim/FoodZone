@@ -66,13 +66,25 @@
 	 
 	/*Page2*/
 	
-	.foodset img, .foodset2 img{
+	.foodset img{
+	width: 150px;
+	height: 100px;
+	margin-right: 20px;
+	}
+	
+	.foodset2 img{
+	width: 150px;
+	height: 100px;
+	margin-left: 50px;
+	}
+	
+	.foodsection img{
 	width: 150px;
 	height: 100px;
 	}
 	
-	.foodsection img{
-	width: 180px;
-	height: 120px;
+	.beverage img{
+	width: 330px;
+	height: 220px;
 	}
 }
